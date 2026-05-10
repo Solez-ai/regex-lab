@@ -103,8 +103,8 @@ export function TopBar({
 
       <div className="flex items-center gap-3">
         <a
-          href="https://github.com"
-          target="_blank"
+          href="https://github.com/Solez-ai/regex-lab"
+          target="blank"
           rel="noopener noreferrer"
           className="p-2.5 rounded-lg hover:bg-[var(--color-bg-tertiary)] transition-colors text-[var(--color-text-muted)] hover:text-[var(--color-text-primary)]"
           aria-label="GitHub"
